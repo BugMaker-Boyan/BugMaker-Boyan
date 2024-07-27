@@ -17,10 +17,11 @@ I'm [BugMaker-Boyan](https://liboyan.vip)！My current research interest include
     <div>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png"></code>
     </div>
