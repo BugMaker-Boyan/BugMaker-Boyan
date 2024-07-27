@@ -15,5 +15,5 @@ I'm [BugMaker-Boyan](https://github.com/BugMaker-Boyan)！My current research in
 - 🌱 Languages and Tools: 
 
     <div>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/java/java.png"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
     </div>
