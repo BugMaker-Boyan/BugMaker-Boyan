@@ -6,8 +6,6 @@ I'm [BugMaker-Boyan](https://liboyan.vip)！My current research interest include
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BugMaker-Boyan)](https://github.com/BugMaker-Boyan)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BugMaker-Boyan)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=BugMaker-Boyan&show_icons=true&hide_border=true">
-
 ## 🧐 About
 
 - 👨‍💻 My Homepage: https://liboyan.vip
