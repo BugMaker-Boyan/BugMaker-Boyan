@@ -1,4 +1,4 @@
-![Boyan Li](https://capsule-render.vercel.app/api?type=waving&color=ffb3de,20:ffd6ec,60:bae6ff,100:cbf5ff&height=250&section=header&text=Boyan%20Li&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Text-to-SQL%20%26%20Data%20Agents%20%26%20Cute%20Data%20Research&descAlignY=74)
+![Boyan Li](assets/profile-banner.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=2800&pause=1000&color=7DF9FF&center=true&vCenter=true&width=920&lines=Text-to-SQL%20Researcher;Data%20Agent%20Builder%20%E2%9C%A8;NLP%20%2B%20Databases%20%F0%9F%92%AB;Building+Research+Tools+with+curiosity)](https://github.com/BugMaker-Boyan)
 
@@ -29,7 +29,7 @@ I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), advised
 - Open, reproducible research tooling for data-related tasks.
 - Collaborative prototypes for autonomous data workflows and SQL systems.
 
-![Wink Divider](https://capsule-render.vercel.app/api?type=rect&color=0:ffe7f5,100:ecfaff&height=4&section=header)
+---
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2400&pause=900&color=7DF9FF&center=true&vCenter=true&width=820&lines=Code+that+reads+intent.%3BData+that+learns+context.%3BSmall+details%2C+big+research+impact." alt="profile tag" />
