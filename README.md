@@ -10,17 +10,17 @@
 
 </div>
 
-## 🌸 About Me
+## <img src="https://img.shields.io/static/v1?label=SECTION&message=ABOUT%20ME&labelColor=09142F&color=123A72&style=flat-square" alt="About Me badge" /> About Me
 
 I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuyu Luo](https://luoyuyu.vip/). Previously, I worked with [Prof. Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/) at [Tsinghua University](https://www.tsinghua.edu.cn/) and completed my bachelor's degree at [SUSTech](https://www.sustech.edu.cn/).
 
-## 🧪 Research Focus
+## <img src="https://img.shields.io/static/v1?label=SECTION&message=RESEARCH%20FOCUS&labelColor=09142F&color=15447C&style=flat-square" alt="Research Focus badge" /> Research Focus
 
 - **Text-to-SQL**: making natural language-to-query systems more reliable and interpretable.
 - **Data Agents**: designing agents that automate query, analysis, and visualization workflows.
 - **Practical Data Intelligence**: building systems from benchmarked methods to real-world workflows.
 
-## ⚙️ What I am building now
+## <img src="https://img.shields.io/static/v1?label=SECTION&message=INNOVATION&labelColor=09142F&color=17519A&style=flat-square" alt="Building badge" /> What I am building now
 
 - Language + data pipelines that stay stable under ambiguous user questions.
 - Open, reproducible research tooling for data-related tasks.
