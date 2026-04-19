@@ -1,6 +1,6 @@
-![Boyan Li](https://capsule-render.vercel.app/api?type=soft&color=0:ff9ec4,50:fec7f0,100:8de8f8&height=250&section=header&text=Boyan%20Li&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Text-to-SQL%20%26%20Data%20Agents%20%F0%9F%8C%B8&descAlignY=74&descAlign=50)
+![Boyan Li](https://capsule-render.vercel.app/api?type=waving&color=0:ffb3de,20:ffd6ec,60:bae6ff,100:cbf5ff&height=250&section=header&text=Boyan%20Li&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=%F0%9F%8C%88%20Text-to-SQL%20%26%20Data%20Agents%20%26%20Cute%20Data%20Automation&descAlignY=74)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2600&pause=900&color=FF8FC7&center=true&vCenter=true&width=920&lines=Text-to-SQL%20Researcher;Data%20Agent%20Builder%20%E2%9C%A8;NLP%20%E2%89%A5%20Databases%20%F0%9F%92%AB;Open%20for%20Research%20%26%20Open-Source%20Collaboration!)](https://github.com/BugMaker-Boyan)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=2800&pause=1000&color=7DF9FF&center=true&vCenter=true&width=920&lines=Text-to-SQL%20Researcher;Data%20Agent%20Builder%20%E2%9C%A8;NLP%20%2B%20Databases%20%F0%9F%92%AB;Building+Research+Tools+with+curiosity)](https://github.com/BugMaker-Boyan)
 
 <div align="center">
 
@@ -13,22 +13,26 @@
 
 </div>
 
-## 🎯 About
+## 🎀 About Me
 
-I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuyu Luo](https://luoyuyu.vip/).  
-I was previously mentored at [Tsinghua University](https://www.tsinghua.edu.cn/) and completed my bachelor's at [SUSTech](https://www.sustech.edu.cn/).  
-My research focuses on **Text-to-SQL**, **Data Agents**, and **practical data intelligence**.
+I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuyu Luo](https://luoyuyu.vip/). Previously, I worked with [Prof. Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/) at [Tsinghua University](https://www.tsinghua.edu.cn/) and completed my bachelor's degree at [SUSTech](https://www.sustech.edu.cn/).
 
-## ✨ Highlights
+## ✨ Research Focus
 
-- Building human-friendly, autonomous systems for database understanding and SQL generation.
-- Exploring data-agent workflows that coordinate query, analysis, and visualization.
-- Happy to collaborate on research prototypes and open-source systems.
+- **Text-to-SQL**: making natural language-to-query systems more reliable and interpretable.
+- **Data Agents**: designing agents that automate query, analysis, and visualization workflows.
+- **Practical Data Intelligence**: building systems from benchmarked methods to real-world workflows.
 
-![Wink](https://capsule-render.vercel.app/api?type=rect&color=0:ffe6f2,100:f6f6ff&height=6&section=header)
+## 🛠 What I am building now
+
+- Language + data pipelines that stay stable under ambiguous user questions.
+- Open, reproducible research tooling for data-related tasks.
+- Collaborative prototypes for autonomous data workflows and SQL systems.
+
+![Wink Divider](https://capsule-render.vercel.app/api?type=rect&color=0:ffe7f5,100:ecfaff&height=4&section=header)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2400&pause=800&color=7DF9FF&center=true&vCenter=true&width=840&lines=If%20code%20meets%20language%2C%20data%20starts%20to%20talk.;If%20data%20meets%20curiosity%2C%20new%20insights%20appear." alt="final-tagline" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2400&pause=900&color=7DF9FF&center=true&vCenter=true&width=820&lines=Code+that+reads+intent.%3BData+that+learns+context.%3BSmall+details%2C+big+research+impact." alt="profile tag" />
 </p>
 
-<p align="center"><i>Thanks for stopping by — enjoy a tiny bit of cute chaos and serious research. 🌸</i></p>
+<p align="center"><i>Thanks for stopping by — enjoy a little anime energy with serious science 🌸</i></p>
