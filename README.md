@@ -1,7 +1,7 @@
 ![Boyan Li](assets/profile-banner.svg)
 <div align="center">
 
-[![Email](https://img.shields.io/static/v1?label=EMAIL&message=bli303%40connect.hkust--gz.edu.cn&labelColor=09142F&color=123A72&style=for-the-badge&logo=gmail&logoColor=FFD86B)](mailto:bli303@connect.hkust-gz.edu.cn)
+[![Email](https://img.shields.io/static/v1?label=EMAIL&message=bli303%40connect.hkust-gz.edu.cn&labelColor=09142F&color=123A72&style=for-the-badge&logo=gmail&logoColor=FFD86B)](mailto:bli303@connect.hkust-gz.edu.cn)
 [![Website](https://img.shields.io/static/v1?label=PORTAL&message=liboyan.vip&labelColor=09142F&color=15447C&style=for-the-badge&logo=Firefox&logoColor=FFD86B)](https://liboyan.vip)
 [![CV](https://img.shields.io/static/v1?label=CV&message=DOWNLOADING&labelColor=09142F&color=17519A&style=for-the-badge&logo=googledocs&logoColor=FFD86B)](https://liboyan.vip/presentations/Boyan_Li_CV.pdf)
 [![GitHub](https://img.shields.io/static/v1?label=GITHUB&message=PROFILE&labelColor=09142F&color=1B61B5&style=for-the-badge&logo=github&logoColor=FFD86B)](https://github.com/BugMaker-Boyan)
