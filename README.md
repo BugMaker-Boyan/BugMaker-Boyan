@@ -50,21 +50,4 @@ My research focuses on **Text-to-SQL**, **Data Agents**, and **data intelligence
   </a>
 </div>
 
-## 📰 Recent Updates
-
-- **2026.04** Papers accepted to ACL 2026 Main.
-- **2026.03** Organizing [KDD Cup 2026: Data Agents for Complex Data Analysis](https://dataagent.top).
-- **2026.02** Our DeepEye-SQL related work was accepted by SIGMOD 2026.
-- **2025.07–2025.09** Updates on NL2SQL-BUGs, EllieSQL, and nvBench 2.0.
-
-<details>
-<summary>More updates</summary>
-
-- **2025.10** NL2SQL-Survey and Foundation Agents survey shared.
-- **2025.12** Received DSA Research Excellence Awards.
-
-</details>
-
----
-
 <p align="center"><i>Research that makes databases understand real questions. 🚀</i></p>
