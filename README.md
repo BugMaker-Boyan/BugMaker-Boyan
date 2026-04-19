@@ -1,16 +1,16 @@
 ![Boyan Li](assets/profile-banner.svg)
-<p align="center"><i>Dreamy Kawaii Theme · Sweet & Cute Edition 🌸</i></p>
+<p align="center"><i>Neon Particle Theme · Data Nebula Edition</i></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=2800&pause=1000&color=8B7FD2&background=FFF4F8&center=true&vCenter=true&width=920&lines=Text-to-SQL%20Researcher;Data%20Agent%20Builder%20%E2%9C%A8;NLP%20%2B%20Databases%20%F0%9F%92%AB;Building+Research+Tools+with+curiosity)](https://github.com/BugMaker-Boyan)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=2800&pause=1000&color=9EB4FF&background=0F1733&center=true&vCenter=true&width=920&lines=Text-to-SQL%20Researcher;Data%20Agent%20Builder%20%E2%9C%A8;NLP%20%2B%20Databases%20%F0%9F%92%AB;Building+Research+Tools+with+curiosity)](https://github.com/BugMaker-Boyan)
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-bli303%40connect.hkust--gz.edu.cn-F8A9D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bli303@connect.hkust-gz.edu.cn)
-[![Website](https://img.shields.io/badge/liboyan.vip-F1C7E7?style=for-the-badge&logo=Firefox&logoColor=white)](https://liboyan.vip)
-[![CV](https://img.shields.io/badge/View%20CV-E8A9ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://liboyan.vip/presentations/Boyan_Li_CV.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-Boyan%20Li-8C95C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BugMaker-Boyan)
-[![Google%20Scholar](https://img.shields.io/badge/Google%20Scholar-C6B2E3?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=RZ2oElwAAAAJ)
-[![X](https://img.shields.io/badge/X-BoyanLi2000-ADA5DD?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BoyanLi2000)
+[![Email](https://img.shields.io/badge/Email-bli303%40connect.hkust--gz.edu.cn-5A6FA0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bli303@connect.hkust-gz.edu.cn)
+[![Website](https://img.shields.io/badge/liboyan.vip-5E79A6?style=for-the-badge&logo=Firefox&logoColor=white)](https://liboyan.vip)
+[![CV](https://img.shields.io/badge/View%20CV-60739A?style=for-the-badge&logo=googledocs&logoColor=white)](https://liboyan.vip/presentations/Boyan_Li_CV.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-Boyan%20Li-6B729A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BugMaker-Boyan)
+[![Google%20Scholar](https://img.shields.io/badge/Google%20Scholar-6D78A3?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=RZ2oElwAAAAJ)
+[![X](https://img.shields.io/badge/X-BoyanLi2000-6B78A8?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BoyanLi2000)
 
 </div>
 
@@ -33,7 +33,7 @@ I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), advised
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2400&pause=900&color=9B86D8&background=FFF2F9&center=true&vCenter=true&width=820&lines=Code+that+reads+intent.;Data+that+learns+context.;Small+details%2C+big+research+impact.;Soft+dreams%2C+smart+science." alt="profile tag" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2400&pause=900&color=9EB4FF&background=0F1733&center=true&vCenter=true&width=820&lines=Code+that+reads+intent.;Data+that+learns+context.;Small+details%2C+big+research+impact.;Particle+thinking%2C+steady+science." alt="profile tag" />
 </p>
 
-<p align="center"><i>Thanks for stopping by — enjoy a little anime energy with serious science 🌸</i></p>
+<p align="center"><i>Thanks for stopping by — where data research meets particle-smooth visuals.</i></p>
