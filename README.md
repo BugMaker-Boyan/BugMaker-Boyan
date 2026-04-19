@@ -1,11 +1,6 @@
 ![Boyan Li](assets/profile-banner.svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Text-to--SQL%20Researcher-7DF9FF?style=for-the-badge&logo=python&logoColor=ffffff" alt="Text-to-SQL Researcher" />
-  <img src="https://img.shields.io/badge/Data%20Agent%20Builder-E88FE0?style=for-the-badge&logo=openai&logoColor=ffffff" alt="Data Agent Builder" />
-  <img src="https://img.shields.io/badge/NLP%20%2B%20Databases-%23ff9ac8?style=for-the-badge&logo=google&logoColor=ffffff" alt="NLP & Databases" />
-</p>
-<p align="center"><strong>Building research tools with curiosity, rigor, and a bit of chaos ✨</strong></p>
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=2800&pause=1000&color=7DF9FF&center=true&vCenter=true&width=920&lines=Text-to-SQL%20Researcher;Data%20Agent%20Builder%20%E2%9C%A8;NLP%20%2B%20Databases%20%F0%9F%92%AB;Building+Research+Tools+with+curiosity)](https://github.com/BugMaker-Boyan)
 
 <div align="center">
 
@@ -36,7 +31,8 @@ I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), advised
 
 ---
 
-<p align="center"><strong>Code that reads intent.</strong> Data that learns context.</p>
-<p align="center"><strong>Small details, big research impact.</strong></p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2400&pause=900&color=7DF9FF&center=true&vCenter=true&width=820&lines=Code+that+reads+intent.;Data+that+learns+context.;Small+details%2C+big+research+impact." alt="profile tag" />
+</p>
 
 <p align="center"><i>Thanks for stopping by — enjoy a little anime energy with serious science 🌸</i></p>
