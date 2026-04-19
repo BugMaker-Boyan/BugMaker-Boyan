@@ -20,7 +20,7 @@ I was previously mentored at [Tsinghua University](https://www.tsinghua.edu.cn/)
 My research focuses on **Text-to-SQL**, **Data Agents**, and **data intelligence systems**.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BugMaker-Boyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7df9ff&text_color=ffffff&icon_color=7df9ff&bg_color=0d1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=BugMaker-Boyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Personal%20GitHub%20Stats&title_color=7df9ff&text_color=ffffff&icon_color=7df9ff&bg_color=0d1117" alt="Personal GitHub Stats" />
 </p>
 
 ## ✨ Highlights
@@ -44,9 +44,17 @@ My research focuses on **Text-to-SQL**, **Data Agents**, and **data intelligence
   <a href="https://github.com/BugMaker-Boyan">
     <img height="170" src="https://streak-stats.demolab.com/?user=BugMaker-Boyan&theme=tokyonight-duo&hide_border=true" />
   </a>
-  <a href="https://github.com/HKUSTDial">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKUSTDial&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" />
+  <a href="https://github.com/BugMaker-Boyan">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugMaker-Boyan&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" />
   </a>
 </div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=BugMaker-Boyan&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+<p align="center">
+Personal stats card can only summarize the account owned repositories, while the contribution graph includes activity across organizations too.
+</p>
 
 <p align="center"><i>Research that makes databases understand real questions. 🚀</i></p>
