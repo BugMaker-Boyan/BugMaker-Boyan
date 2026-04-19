@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2AFADF,100:4C83FF&height=220&section=header&text=Boyan%20Li%20%E2%80%A2%20BugMaker--Boyan&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%93%9A%20Text-to-SQL%20%26%20Data%20Agents%20Researcher&descAlignY=75&animation=twinkling" width="100%" />
-</p>
+![Boyan Li](https://capsule-render.vercel.app/api?type=waving&color=0:2AFADF,100:4C83FF&height=250&section=header&text=Boyan%20Li&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=PhD%20Student%20%40%20HKUST(GZ)&descAlignY=75&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=900&color=7DF9FF&center=true&vCenter=true&width=840&lines=PhD%20Student%20%40%20HKUST%20(Guangzhou);Text-to-SQL%20%7C%20Data%20Agents%20%7C%20Natural+Language%20to+Data;Open+Source%20%26%20Research+Collaborations+Welcome)](https://github.com/BugMaker-Boyan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&lines=Text-to-SQL%20Researcher;Data%20Agent%20Systems;NLP%20%2B%20Databases;Open%20for%20Research%20%26%20Open-Source%20Collaboration)](https://github.com/BugMaker-Boyan)
 
 <div align="center">
 
@@ -16,79 +14,57 @@
 
 </div>
 
-<h3 align="center">🚀 学术研究者 × 数据智能实践者</h3>
+## ⚡ About
+
+I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuyu Luo](https://luoyuyu.vip/).  
+I was previously mentored at [Tsinghua University](https://www.tsinghua.edu.cn/) and completed my bachelor's at [SUSTech](https://www.sustech.edu.cn/).  
+My research focuses on **Text-to-SQL**, **Data Agents**, and **data intelligence systems**.
 
 <p align="center">
-I am a PhD student at <a href="https://www.hkust-gz.edu.cn/">HKUST (Guangzhou)</a>, advised by Prof. <a href="https://luoyuyu.vip/">Yuyu Luo</a>.  
-Previously advised/mentored by Prof. <a href="https://dbgroup.cs.tsinghua.edu.cn/ligl/">Guoliang Li</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> and graduated from <a href="https://www.sustech.edu.cn/">SUSTech</a>.
+<img src="https://github-readme-stats.vercel.app/api?username=BugMaker-Boyan&show_icons=true&theme=tokyonight&hide_border=true&title_color=7df9ff&text_color=ffffff&icon_color=7df9ff&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
-![Profile Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BugMaker-Boyan&theme=github_dark)
+## ✨ Highlights
 
-## ⚡ 快速认知
-
-- 🎓 `PhD Student · Data Science and Analytics`
-- 🔬 研究方向：**Text-to-SQL**、**Data Agents**
-- 🧪 关注自然语言驱动的数据分析、查询生成与数据系统交互
-- 🤝 愿意合作：欢迎学术/开源项目交流
+- Current focus: natural language interfaces for databases, query generation, and autonomous data workflows.
+- Building benchmarks and systems for query understanding and data-agent behavior.
+- Interested in open collaboration across NLP + databases + systems.
 
 <details>
-<summary>一句话版简介（点击展开）</summary>
+<summary>Research Snapshot</summary>
 
-- 把自然语言问题变成可靠的数据操作流程，让数据库“会听懂”并执行复杂任务。  
-- 当前重点做数据智能体、自动化数据分析和 NL2SQL 相关研究。
+- Translate ambiguous user intents into reliable SQL pipelines.
+- Reduce failure risk with staged reasoning and execution controls.
+- Combine language modeling with data-system constraints for practical deployment.
 
 </details>
 
-## 📈 代码+科研动态仪表盘
+## 📈 Live Activity
 
 <div align="center">
-  <a href="https://github.com/BugMaker-Boyan">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=BugMaker-Boyan&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
   <a href="https://github.com/BugMaker-Boyan">
     <img height="170" src="https://streak-stats.demolab.com/?user=BugMaker-Boyan&theme=tokyonight-duo&hide_border=true" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/BugMaker-Boyan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugMaker-Boyan&layout=compact&theme=tokyonight&hide_border=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugMaker-Boyan&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
-## 🧠 近况速写
+## 📰 Recent Updates
 
-- 2026.04：ACL 2026 Main 接收论文
-- 2026.03：主办 **KDD Cup 2026: Data Agents for Complex Data Analysis**
-- 2026.02：DeepEye-SQL 相关工作被 SIGMOD 2026 接收
-- 2025.07–2025.09：NL2SQL-BUGs / EllieSQL / nvBench 2.0 更新进展
+- **2026.04** Papers accepted to ACL 2026 Main.
+- **2026.03** Organizing [KDD Cup 2026: Data Agents for Complex Data Analysis](https://dataagent.top).
+- **2026.02** Our DeepEye-SQL related work was accepted by SIGMOD 2026.
+- **2025.07–2025.09** Updates on NL2SQL-BUGs, EllieSQL, and nvBench 2.0.
 
 <details>
-<summary>查看更多更新</summary>
+<summary>More updates</summary>
 
-- 2025.10：NL2SQL-Survey 与 Foundation Agents survey
-- 2025.12：DSA Research Excellence Awards（研究卓越奖）
+- **2025.10** NL2SQL-Survey and Foundation Agents survey shared.
+- **2025.12** Received DSA Research Excellence Awards.
 
 </details>
 
-## 🛠 主要工具栈
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BugMaker-Boyan&theme=github_dark" alt="Productive Time" />
-</p>
-
 ---
 
-<p align="center">
-<i>Built with data, curiosity, and a little bit of glitter. ✨</i>
-</p>
+<p align="center"><i>Research that makes databases understand real questions. 🚀</i></p>
