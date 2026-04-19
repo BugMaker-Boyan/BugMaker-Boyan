@@ -1,12 +1,12 @@
 ![Boyan Li](assets/profile-banner.svg)
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-bli303%40connect.hkust--gz.edu.cn-5A6FA0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bli303@connect.hkust-gz.edu.cn)
-[![Website](https://img.shields.io/badge/liboyan.vip-5E79A6?style=for-the-badge&logo=Firefox&logoColor=white)](https://liboyan.vip)
-[![CV](https://img.shields.io/badge/View%20CV-60739A?style=for-the-badge&logo=googledocs&logoColor=white)](https://liboyan.vip/presentations/Boyan_Li_CV.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-Boyan%20Li-6B729A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BugMaker-Boyan)
-[![Google%20Scholar](https://img.shields.io/badge/Google%20Scholar-6D78A3?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=RZ2oElwAAAAJ)
-[![X](https://img.shields.io/badge/X-BoyanLi2000-6B78A8?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BoyanLi2000)
+[![Email](https://img.shields.io/static/v1?label=EMAIL&message=bli303%40connect.hkust--gz.edu.cn&labelColor=0B1330&color=11204A&style=flat-square&logo=gmail&logoColor=87C4FF)](mailto:bli303@connect.hkust-gz.edu.cn)
+[![Website](https://img.shields.io/static/v1?label=WEB&message=liboyan.vip&labelColor=0B1330&color=13285A&style=flat-square&logo=Firefox&logoColor=87C4FF)](https://liboyan.vip)
+[![CV](https://img.shields.io/static/v1?label=CV&message=Boyan%20Li&labelColor=0B1330&color=163068&style=flat-square&logo=googledocs&logoColor=87C4FF)](https://liboyan.vip/presentations/Boyan_Li_CV.pdf)
+[![GitHub](https://img.shields.io/static/v1?label=GITHUB&message=Profile&labelColor=0B1330&color=17357B&style=flat-square&logo=github&logoColor=87C4FF)](https://github.com/BugMaker-Boyan)
+[![Google%20Scholar](https://img.shields.io/static/v1?label=SCHOLAR&message=Research&labelColor=0B1330&color=19418A&style=flat-square&logo=google&logoColor=87C4FF)](https://scholar.google.com/citations?user=RZ2oElwAAAAJ)
+[![X](https://img.shields.io/static/v1?label=SOCIAL&message=@BoyanLi2000&labelColor=0B1330&color=1A4F9B&style=flat-square&logo=x&logoColor=87C4FF)](https://x.com/BoyanLi2000)
 
 </div>
 
