@@ -33,5 +33,3 @@ I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), advised
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2400&pause=900&color=6E89FF&center=true&vCenter=true&width=820&height=70&lines=Code+that+reads+intent.;Data+that+learns+context.;Small+details%2C+big+research+impact.;Particle+thinking%2C+steady+science." alt="profile tag" style="vertical-align:middle;" />
 </p>
-
-<p align="center"><i>Thanks for stopping by — where data research meets particle-smooth visuals.</i></p>
