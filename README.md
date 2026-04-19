@@ -10,7 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-BugMaker--Boyan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BugMaker-Boyan)
 [![Google%20Scholar](https://img.shields.io/badge/Google%20Scholar-Boyan%20Li-4e95ff?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=RZ2oElwAAAAJ)
 [![X](https://img.shields.io/badge/X-BoyanLi2000-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BoyanLi2000)
-[![Visitors](https://komarev.com/ghpvc/?username=BugMaker-Boyan&label=Visitors&color=0A66C2&style=for-the-badge)](https://github.com/BugMaker-Boyan)
 
 </div>
 
