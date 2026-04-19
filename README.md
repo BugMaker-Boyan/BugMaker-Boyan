@@ -1,6 +1,6 @@
-![Boyan Li](https://capsule-render.vercel.app/api?type=waving&color=0:2AFADF,100:4C83FF&height=250&section=header&text=Boyan%20Li&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=PhD%20Student%20%40%20HKUST(GZ)&descAlignY=75&descAlign=50)
+![Boyan Li](https://capsule-render.vercel.app/api?type=soft&color=0:ff9ec4,50:fec7f0,100:8de8f8&height=250&section=header&text=Boyan%20Li&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Text-to-SQL%20%26%20Data%20Agents%20%F0%9F%8C%B8&descAlignY=74&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&lines=Text-to-SQL%20Researcher;Data%20Agent%20Systems;NLP%20%2B%20Databases;Open%20for%20Research%20%26%20Open-Source%20Collaboration)](https://github.com/BugMaker-Boyan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2600&pause=900&color=FF8FC7&center=true&vCenter=true&width=920&lines=Text-to-SQL%20Researcher;Data%20Agent%20Builder%20%E2%9C%A8;NLP%20%E2%89%A5%20Databases%20%F0%9F%92%AB;Open%20for%20Research%20%26%20Open-Source%20Collaboration!)](https://github.com/BugMaker-Boyan)
 
 <div align="center">
 
@@ -13,48 +13,22 @@
 
 </div>
 
-## ⚡ About
+## 🎯 About
 
 I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuyu Luo](https://luoyuyu.vip/).  
 I was previously mentored at [Tsinghua University](https://www.tsinghua.edu.cn/) and completed my bachelor's at [SUSTech](https://www.sustech.edu.cn/).  
-My research focuses on **Text-to-SQL**, **Data Agents**, and **data intelligence systems**.
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BugMaker-Boyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Personal%20GitHub%20Stats&title_color=7df9ff&text_color=ffffff&icon_color=7df9ff&bg_color=0d1117" alt="Personal GitHub Stats" />
-</p>
+My research focuses on **Text-to-SQL**, **Data Agents**, and **practical data intelligence**.
 
 ## ✨ Highlights
 
-- Current focus: natural language interfaces for databases, query generation, and autonomous data workflows.
-- Building benchmarks and systems for query understanding and data-agent behavior.
-- Interested in open collaboration across NLP + databases + systems.
+- Building human-friendly, autonomous systems for database understanding and SQL generation.
+- Exploring data-agent workflows that coordinate query, analysis, and visualization.
+- Happy to collaborate on research prototypes and open-source systems.
 
-<details>
-<summary>Research Snapshot</summary>
-
-- Translate ambiguous user intents into reliable SQL pipelines.
-- Reduce failure risk with staged reasoning and execution controls.
-- Combine language modeling with data-system constraints for practical deployment.
-
-</details>
-
-## 📈 Live Activity
-
-<div align="center">
-  <a href="https://github.com/BugMaker-Boyan">
-    <img height="170" src="https://streak-stats.demolab.com/?user=BugMaker-Boyan&theme=tokyonight-duo&hide_border=true" />
-  </a>
-  <a href="https://github.com/BugMaker-Boyan">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugMaker-Boyan&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" />
-  </a>
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=BugMaker-Boyan&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
+![Wink](https://capsule-render.vercel.app/api?type=rect&color=0:ffe6f2,100:f6f6ff&height=6&section=header)
 
 <p align="center">
-Personal stats card can only summarize the account owned repositories, while the contribution graph includes activity across organizations too.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2400&pause=800&color=7DF9FF&center=true&vCenter=true&width=840&lines=If%20code%20meets%20language%2C%20data%20starts%20to%20talk.;If%20data%20meets%20curiosity%2C%20new%20insights%20appear." alt="final-tagline" />
 </p>
 
-<p align="center"><i>Research that makes databases understand real questions. 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — enjoy a tiny bit of cute chaos and serious research. 🌸</i></p>
