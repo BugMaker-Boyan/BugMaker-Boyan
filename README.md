@@ -1,6 +1,4 @@
 ![Boyan Li](assets/profile-banner.svg)
-<p align="center"><i>Neon Particle Theme · Data Nebula Edition</i></p>
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-bli303%40connect.hkust--gz.edu.cn-5A6FA0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bli303@connect.hkust-gz.edu.cn)
