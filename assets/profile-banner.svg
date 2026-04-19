@@ -1,69 +1,120 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" preserveAspectRatio="xMidYMid slice">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0D1026" />
-      <stop offset="35%" stop-color="#161D47" />
-      <stop offset="70%" stop-color="#1E2B62" />
-      <stop offset="100%" stop-color="#101637" />
+      <stop offset="0%" stop-color="#0d1124" />
+      <stop offset="30%" stop-color="#151d3a" />
+      <stop offset="65%" stop-color="#20284b" />
+      <stop offset="100%" stop-color="#151d38" />
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="70%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="rgba(167,188,250,0.45)" />
+      <stop offset="100%" stop-color="rgba(20,30,66,0)" />
+    </radialGradient>
+    <linearGradient id="cloud1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(185, 198, 241, 0.20)" />
+      <stop offset="100%" stop-color="rgba(166, 145, 219, 0.00)" />
+    </linearGradient>
+    <linearGradient id="cloud2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(191, 224, 219, 0.20)" />
+      <stop offset="100%" stop-color="rgba(171, 208, 225, 0.00)" />
+    </linearGradient>
+    <linearGradient id="halo" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="rgba(190, 208, 245, 0.55)" />
+      <stop offset="100%" stop-color="rgba(190, 208, 245, 0)" />
     </linearGradient>
     <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="rgba(255, 255, 255, 0.2)" />
-      <stop offset="50%" stop-color="rgba(255, 255, 255, 0.0)" />
-      <stop offset="100%" stop-color="rgba(255, 255, 255, 0.2)" />
+      <stop offset="0%" stop-color="rgba(255, 255, 255, 0.12)" />
+      <stop offset="50%" stop-color="rgba(255, 255, 255, 0.00)" />
+      <stop offset="100%" stop-color="rgba(255, 255, 255, 0.12)" />
     </linearGradient>
   </defs>
 
   <rect width="1200" height="250" fill="url(#bg)" />
+  <ellipse cx="900" cy="45" rx="210" ry="95" fill="url(#moonGlow)" />
 
-  <path d="M0 140 Q 150 90 300 120 Q 450 150 600 110 Q 750 70 900 120 Q 1050 160 1200 120 L 1200 250 L 0 250 Z"
-    fill="rgba(139,233,255,0.14)">
+  <path d="M0 138 Q 140 84 280 122 Q 430 158 600 116 Q 770 64 950 111 Q 1080 146 1200 128 L 1200 250 L 0 250 Z"
+    fill="url(#cloud1)">
     <animate attributeName="d"
-      dur="7s"
+      dur="8s"
       repeatCount="indefinite"
       values="
-      M0 140 Q 150 90 300 120 Q 450 150 600 110 Q 750 70 900 120 Q 1050 160 1200 120 L 1200 250 L 0 250 Z;
-      M0 130 Q 150 95 300 130 Q 450 165 600 120 Q 750 80 900 135 Q 1050 150 1200 135 L 1200 250 L 0 250 Z;
-      M0 140 Q 150 90 300 120 Q 450 150 600 110 Q 750 70 900 120 Q 1050 160 1200 120 L 1200 250 L 0 250 Z"
+      M0 138 Q 140 84 280 122 Q 430 158 600 116 Q 770 64 950 111 Q 1080 146 1200 128 L 1200 250 L 0 250 Z;
+      M0 134 Q 140 92 280 132 Q 430 162 600 122 Q 770 70 950 118 Q 1080 140 1200 132 L 1200 250 L 0 250 Z;
+      M0 138 Q 140 84 280 122 Q 430 158 600 116 Q 770 64 950 111 Q 1080 146 1200 128 L 1200 250 L 0 250 Z"
       />
   </path>
 
-  <path d="M0 165 Q 150 130 300 155 Q 450 185 600 150 Q 750 110 900 165 Q 1050 190 1200 160 L 1200 250 L 0 250 Z"
-    fill="rgba(216,163,255,0.12)">
+  <path d="M0 165 Q 130 142 260 156 Q 430 184 610 150 Q 770 108 980 166 Q 1120 200 1200 164 L 1200 250 L 0 250 Z"
+    fill="url(#cloud2)">
     <animate attributeName="d"
-      dur="9s"
+      dur="10s"
       repeatCount="indefinite"
       values="
-      M0 165 Q 150 130 300 155 Q 450 185 600 150 Q 750 110 900 165 Q 1050 190 1200 160 L 1200 250 L 0 250 Z;
-      M0 170 Q 150 125 300 150 Q 450 190 600 145 Q 750 115 900 175 Q 1050 185 1200 150 L 1200 250 L 0 250 Z;
-      M0 165 Q 150 130 300 155 Q 450 185 600 150 Q 750 110 900 165 Q 1050 190 1200 160 L 1200 250 L 0 250 Z"
+      M0 165 Q 130 142 260 156 Q 430 184 610 150 Q 770 108 980 166 Q 1120 200 1200 164 L 1200 250 L 0 250 Z;
+      M0 170 Q 130 148 260 150 Q 430 188 610 146 Q 770 115 980 172 Q 1120 195 1200 170 L 1200 250 L 0 250 Z;
+      M0 165 Q 130 142 260 156 Q 430 184 610 150 Q 770 108 980 166 Q 1120 200 1200 164 L 1200 250 L 0 250 Z"
       />
   </path>
 
-  <g opacity="0.8">
-    <circle cx="220" cy="70" r="6" fill="#D8A3FF">
-      <animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite" />
+  <g opacity="0.9">
+    <circle cx="220" cy="72" r="7" fill="#9fa1ca">
+      <animate attributeName="r" values="4;7;4" dur="3.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.25;0.85;0.25" dur="3.2s" repeatCount="indefinite" />
     </circle>
-    <circle cx="520" cy="45" r="4" fill="#8BE9FF">
-      <animate attributeName="r" values="3;7;3" dur="2.4s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite" />
+    <circle cx="510" cy="42" r="5" fill="#b7c4e8">
+      <animate attributeName="r" values="3;6;3" dur="2.6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.6s" repeatCount="indefinite" />
     </circle>
-    <circle cx="930" cy="90" r="5" fill="#A78BFA">
-      <animate attributeName="r" values="4;6;4" dur="2.8s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.25;0.8;0.25" dur="2.8s" repeatCount="indefinite" />
+    <circle cx="900" cy="95" r="4.5" fill="#c8b5e2">
+      <animate attributeName="r" values="3;5;3" dur="2.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.22;0.8;0.22" dur="2.8s" repeatCount="indefinite" />
     </circle>
+  </g>
+
+  <g opacity="0.75">
+    <path d="M1030 44 C1070 44,1070 88,1030 90 C1012 91,1008 59,1030 44 Z" fill="url(#halo)" />
+  </g>
+
+  <g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" dur="4.8s" repeatCount="indefinite"
+        values="920 56;920 44;920 56;920 50;920 56" />
+      <ellipse cx="0" cy="154" rx="54" ry="28" fill="#2a3358" />
+      <ellipse cx="28" cy="136" rx="25" ry="8" fill="rgba(42,51,88,0.75)" />
+      <ellipse cx="28" cy="104" rx="32" ry="41" fill="#ded5c7" />
+      <path d="M-4 67 C-20 68,16 48,40 61 C45 64,48 73,32 76 C12 82,-8 84,-4 67 Z" fill="#535d85" />
+      <circle cx="14" cy="101" r="4" fill="#2f3149" />
+      <circle cx="41" cy="102" r="4" fill="#2f3149" />
+      <circle cx="14" cy="101" r="1.4" fill="#ffffff" />
+      <circle cx="41" cy="102" r="1.4" fill="#ffffff" />
+      <ellipse cx="27.5" cy="112" rx="6" ry="4" fill="#c28e93" opacity="0.75" />
+      <path d="M8 125 C18 132,37 132,46 125" fill="none" stroke="#2f3149" stroke-width="1.5" stroke-linecap="round" />
+      <path d="M10 134 L 18 148 L 38 144 L 46 134 L 28 148 Z" fill="#6c75a6" />
+      <path d="M18 120 L 24 126 L 14 126 Z" fill="#f4e4da" />
+      <path d="M40 120 L 36 126 L 45 126 Z" fill="#f4e4da" />
+      <g fill="#f7f1e7">
+        <path d="M12 154 L 12 166 L 22 166 L 22 154 Z" />
+        <path d="M32 154 L 32 166 L 42 166 L 42 154 Z" />
+      </g>
+    </g>
   </g>
 
   <rect x="0" y="0" width="1200" height="250" fill="url(#shine)" />
 
-  <text x="70" y="95" font-size="58" font-family="'Segoe UI', 'Poppins', 'Noto Sans SC', sans-serif" fill="#8BE9FF" font-weight="700">
+  <text x="72" y="93" font-size="56" font-family="'Segoe UI', 'Poppins', 'Noto Sans SC', sans-serif" fill="#b8c7ea" font-weight="700" letter-spacing="0.8">
     Boyan Li
   </text>
-  <text x="72" y="138" font-size="27" font-family="'Segoe UI', 'Poppins', 'Noto Sans SC', sans-serif" fill="#D8A3FF" opacity="0.95">
+  <text x="74" y="138" font-size="27" font-family="'Segoe UI', 'Poppins', 'Noto Sans SC', sans-serif" fill="#bac1df" opacity="0.95">
     Text-to-SQL · Data Agents · Cute Data Intelligence
   </text>
 
-  <text x="70" y="190" font-size="22" font-family="'Segoe UI', 'Poppins', 'Noto Sans SC', sans-serif" fill="rgba(216,163,255,0.95)">
+  <text x="74" y="190" font-size="22" font-family="'Segoe UI', 'Poppins', 'Noto Sans SC', sans-serif" fill="rgba(188,199,237,0.9)">
     HKUST (Guangzhou) · Data Science and Analytics
   </text>
+
+  <g opacity="0.55" fill="rgba(210,218,241,0.7)">
+    <path d="M64 202 C66 198 72 198 74 202 L76 214 C77 218 73 221 70 219 C67 221 63 218 64 214 Z" />
+    <path d="M95 204 C98 200 103 200 106 204 L108 216 C109 220 105 223 102 221 C99 223 95 220 96 216 Z" />
+    <path d="M124 203 C127 199 133 198 136 202 L138 214 C139 218 135 221 132 219 C129 221 125 218 126 214 Z" />
+  </g>
 </svg>
