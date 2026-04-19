@@ -1,4 +1,5 @@
 ![Boyan Li](assets/profile-banner.svg)
+<p align="center"><i>Dreamy Anime Theme · Soft Glow Edition</i></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=2800&pause=1000&color=B8C7EA&background=0D1124&center=true&vCenter=true&width=920&lines=Text-to-SQL%20Researcher;Data%20Agent%20Builder%20%E2%9C%A8;NLP%20%2B%20Databases%20%F0%9F%92%AB;Building+Research+Tools+with+curiosity)](https://github.com/BugMaker-Boyan)
 
