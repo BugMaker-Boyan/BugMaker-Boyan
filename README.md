@@ -1,12 +1,12 @@
 ![Boyan Li](assets/profile-banner.svg)
 <div align="center">
 
-[![Email](https://img.shields.io/static/v1?label=EMAIL&message=bli303%40connect.hkust--gz.edu.cn&labelColor=0B1330&color=11204A&style=flat-square&logo=gmail&logoColor=87C4FF)](mailto:bli303@connect.hkust-gz.edu.cn)
-[![Website](https://img.shields.io/static/v1?label=WEB&message=liboyan.vip&labelColor=0B1330&color=13285A&style=flat-square&logo=Firefox&logoColor=87C4FF)](https://liboyan.vip)
-[![CV](https://img.shields.io/static/v1?label=CV&message=Boyan%20Li&labelColor=0B1330&color=163068&style=flat-square&logo=googledocs&logoColor=87C4FF)](https://liboyan.vip/presentations/Boyan_Li_CV.pdf)
-[![GitHub](https://img.shields.io/static/v1?label=GITHUB&message=Profile&labelColor=0B1330&color=17357B&style=flat-square&logo=github&logoColor=87C4FF)](https://github.com/BugMaker-Boyan)
-[![Google%20Scholar](https://img.shields.io/static/v1?label=SCHOLAR&message=Research&labelColor=0B1330&color=19418A&style=flat-square&logo=google&logoColor=87C4FF)](https://scholar.google.com/citations?user=RZ2oElwAAAAJ)
-[![X](https://img.shields.io/static/v1?label=SOCIAL&message=@BoyanLi2000&labelColor=0B1330&color=1A4F9B&style=flat-square&logo=x&logoColor=87C4FF)](https://x.com/BoyanLi2000)
+[![Email](https://img.shields.io/static/v1?label=EMAIL&message=bli303%40connect.hkust--gz.edu.cn&labelColor=09142F&color=123A72&style=for-the-badge&logo=gmail&logoColor=FFD86B)](mailto:bli303@connect.hkust-gz.edu.cn)
+[![Website](https://img.shields.io/static/v1?label=PORTAL&message=liboyan.vip&labelColor=09142F&color=15447C&style=for-the-badge&logo=Firefox&logoColor=FFD86B)](https://liboyan.vip)
+[![CV](https://img.shields.io/static/v1?label=CV&message=DOWNLOADING&labelColor=09142F&color=17519A&style=for-the-badge&logo=googledocs&logoColor=FFD86B)](https://liboyan.vip/presentations/Boyan_Li_CV.pdf)
+[![GitHub](https://img.shields.io/static/v1?label=GITHUB&message=PROFILE&labelColor=09142F&color=1B61B5&style=for-the-badge&logo=github&logoColor=FFD86B)](https://github.com/BugMaker-Boyan)
+[![Google%20Scholar](https://img.shields.io/static/v1?label=SCHOLAR&message=RESEARCH&labelColor=09142F&color=1D72D0&style=for-the-badge&logo=google&logoColor=FFD86B)](https://scholar.google.com/citations?user=RZ2oElwAAAAJ)
+[![X](https://img.shields.io/static/v1?label=SOCIAL&message=BOYANLI2000&labelColor=09142F&color=2194FF&style=for-the-badge&logo=x&logoColor=FFD86B)](https://x.com/BoyanLi2000)
 
 </div>
 
